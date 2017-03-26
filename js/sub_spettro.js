@@ -64,7 +64,7 @@ var subtitle1 = [
 "text" :"Se hai dei crolli, pesano: Wow! sei più autistico di quel che pensavo"},
 {"start": 69.5,
 "end" :74.0,
-"text" :"Allora pensano tu sia nella parte bassa e pensano che no puoi lavorare..."},
+"text" :"Allora pensano tu sia nella parte bassa e pensano che non puoi lavorare..."},
 {"start": 74.5,
 "end" :78.0,
 "text" :"questo ti etichetta come una persona che non sa fare nulla"},
