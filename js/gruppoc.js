@@ -1,4 +1,4 @@
-gruppo.innerHTML = "<h3>30/06/2017</h3>Aggiunto un video alla sezione DSA e PDP sulla dislessia."
+gruppo.innerHTML = "<h3>30/06/2017</h3>Aggiunto un video alla sezione DSA e PDP sulla dislessia e materiali della prof.ssa Chiocca nella sezione dedicata al suo primo incontro."
 gruppo.innerHTML += "<h3>14/06/2017 - Badge 1h di navigazione</h3>Ora anche per i corsisti del gruppo B e C è possibile ottenere un Badge per un'ora di navigazione. Presto arriverà anche quello per 3 ore di navigazione, mentre quello per le 2 ore è già possibile ottenerlo. A breve dovrebbe essere disponibile il materiale del prof. Frolli sull'autismo."
 gruppo.innerHTML += "<iframe width=\"100%\" height=\"250\" src=\"https://www.youtube.com/embed/2TSlti5bioQ\" frameborder=\"0\" allowfullscreen></iframe>"
 gruppo.innerHTML += "<h3>Badge Navigatore</h3>Ora si possono ottenere il Badge Navigatore (per 2 ore di navigazione) e il Badge Internauta 3h (per 3 ore di navigazione). Già disponibili per il gruppo A e presto anche per il gruppo B e C."
