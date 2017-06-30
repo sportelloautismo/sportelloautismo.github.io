@@ -1,3 +1,3 @@
-splasha.innerHTML = "<span class='badge'>Pausa estiva</span> A settembre";
-splashb.innerHTML = "<span class='badge'>Pausa estiva</span> A settembre. È arrivato il badge 3h.";
-splashc.innerHTML = "<span class='badge'>Pausa estiva</span> A settembre. È arrivato il Badge 3h.";
+splasha.innerHTML = "<span class='badge'>Pausa estiva</span> Aggiunto un video sulla dislessia nella sezione DSA e PDP";
+splashb.innerHTML = "<span class='badge'>Pausa estiva</span> Aggiunto un video sulla dislessia nella sezione DSA e PDP";
+splashc.innerHTML = "<span class='badge'>Pausa estiva</span> Aggiunto un video sulla dislessia nella sezione DSA e PDP";
