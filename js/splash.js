@@ -1,3 +1,8 @@
-splasha.innerHTML = "<span class='badge'>Pausa estiva</span> Aggiunto un video sulla dislessia nella sezione DSA e PDP e materiali della prof.ssa Chiocca. Presto verrà assegnato un badge per chi prenderà visione del materiale.<span class=\"glyphicon glyphicon-thumbs-up\"></span>";
-splashb.innerHTML = "<span class='badge'>Pausa estiva</span> Aggiunto un video sulla dislessia nella sezione DSA e PDP e materiali della prof.ssa Chiocca. Presto verrà assegnato un badge per chi prenderà visione del materiale.<span class=\"glyphicon glyphicon-thumbs-up\"></span>";
-splashc.innerHTML = "<span class='badge'>Pausa estiva</span> Aggiunto un video sulla dislessia nella sezione DSA e PDP e materiali della prof.ssa Chiocca. Presto verrà assegnato un badge per prenderà visione del materiale.<span class=\"glyphicon glyphicon-thumbs-up\"></span>";
+var content = "<span class='badge'>New</span>";
+var content += "Un nuovo video sull'autismo (realizzato con la collaborazione del prof. Tony Attwood, esperto dell'autismo)"
+var thumbup = <span class=\"glyphicon glyphicon-thumbs-up\"></span>";
+
+<!-- this is the same for all the groups -->
+splasha.innerHTML = content + thumbup
+splashb.innerHTML = content + thumbup
+splashc.innerHTML = content + thumbup
