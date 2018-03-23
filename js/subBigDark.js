@@ -192,7 +192,7 @@
         var style       = root.document.createElement('style');
         style.id        = 'youtube-external-subtitle-style';
         style.type      = 'text/css';
-        style.innerHTML = ".youtube-external-subtitle { position: absolute; display: none; z-index: 0; pointer-events: none; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 2em; text-align: center; } .youtube-external-subtitle span { background: #000; opacity:0; padding: 1px 4px; display: inline-block; margin-bottom: 2px; margin:auto; max-width: 500px; } .youtube-external-subtitle.fullscreen-ignore { display: none !important; } .youtube-external-subtitle.fullscreen { z-index: 3000000000; }";
+        style.innerHTML = ".youtube-external-subtitle { position: absolute; display: none; z-index: 0; pointer-events: none; color: #fff; font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif; font-size: 2em; text-align: center; } .youtube-external-subtitle span { background: #000; opacity:1; padding: 1px 4px; display: inline-block; margin-bottom: 2px; margin:auto; max-width: 500px; } .youtube-external-subtitle.fullscreen-ignore { display: none !important; } .youtube-external-subtitle.fullscreen { z-index: 3000000000; }";
 
         var head = root.document.getElementsByTagName('head')[0] || root.document.documentElement;
         head.insertBefore(style, head.firstChild);
